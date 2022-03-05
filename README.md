@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=diazdroid&style=flat-square)
+![](https://komarev.com/ghpvc/?username=diazdroid&style=for-the-badge)
 
 <!--
 **diazdroid/diazdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
